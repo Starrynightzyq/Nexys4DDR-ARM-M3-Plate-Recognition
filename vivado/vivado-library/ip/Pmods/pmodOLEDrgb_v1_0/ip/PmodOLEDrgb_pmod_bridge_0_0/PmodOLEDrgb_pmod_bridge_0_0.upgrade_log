@@ -1,0 +1,58 @@
+Copyright 1986-2015 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2015.4 (win64) Build 1412921 Wed Nov 18 09:43:45 MST 2015
+| Date         : Mon Mar 28 13:02:47 2016
+| Host         : WK116 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'PmodOLEDrgb_pmod_bridge_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of PmodOLEDrgb_pmod_bridge_0_0 (digilentinc.com:ip:pmod_bridge:1.0) from (Rev. 2) to (Rev. 6)
+
+
+
+
+
+
+Copyright 1986-2015 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2015.4 (win64) Build 1412921 Wed Nov 18 09:43:45 MST 2015
+| Date         : Wed Mar 23 12:28:24 2016
+| Host         : WK116 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'PmodOLEDrgb_pmod_bridge_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of PmodOLEDrgb_pmod_bridge_0_0 (digilentinc.com:ip:pmod_bridge:1.0) from (Rev. 1) to (Rev. 2)
+
+
+
+
+
+
+Copyright 1986-2015 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2015.4 (win64) Build 1412921 Wed Nov 18 09:43:45 MST 2015
+| Date         : Tue Mar 08 15:59:37 2016
+| Host         : WK116 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'PmodOLEDrgb_pmod_bridge_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of PmodOLEDrgb_pmod_bridge_0_0 (digilentinc.com:ip:pmod_bridge:1.0) from (Rev. 7) to (Rev. 1)
+

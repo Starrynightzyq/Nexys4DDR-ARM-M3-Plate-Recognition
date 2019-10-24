@@ -1,0 +1,37 @@
+Copyright 1986-2015 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2015.4 (win64) Build 1412921 Wed Nov 18 09:43:45 MST 2015
+| Date         : Tue Mar 08 16:00:25 2016
+| Host         : WK116 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'PmodOLEDrgb_axi_gpio_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the update of PmodOLEDrgb_axi_gpio_0_1 (xilinx.com:ip:axi_gpio:2.0 (Rev. 9)) to current project options.
+
+
+
+
+
+
+Copyright 1986-2015 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2015.4 (win64) Build 1412921 Wed Nov 18 09:43:45 MST 2015
+| Date         : Mon Feb 29 17:10:51 2016
+| Host         : WK116 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'PmodOLEDrgb_axi_gpio_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the update of PmodOLEDrgb_axi_gpio_0_1 (xilinx.com:ip:axi_gpio:2.0 (Rev. 9)) to current project options.
+

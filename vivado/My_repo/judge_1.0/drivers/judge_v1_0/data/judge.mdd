@@ -1,0 +1,10 @@
+
+
+OPTION psf_version = 2.1;
+
+BEGIN DRIVER judge
+	OPTION supported_peripherals = (judge);
+	OPTION copyfiles = all;
+	OPTION VERSION = 1.0;
+	OPTION NAME = judge;
+END DRIVER

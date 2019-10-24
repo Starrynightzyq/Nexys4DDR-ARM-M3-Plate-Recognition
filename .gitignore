@@ -1,0 +1,6 @@
+*.o
+*.mp4
+/hardware/m3_for_arty_a7/m3_for_arty_a7/*.sim/
+/hardware/m3_for_arty_a7/m3_for_arty_a7/*.tmp/
+/hardware/m3_for_arty_a7/m3_for_arty_a7/*.cache/
+/hardware/m3_for_arty_a7/m3_for_arty_a7/*.runs/
