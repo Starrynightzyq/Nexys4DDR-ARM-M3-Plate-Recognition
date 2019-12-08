@@ -1,0 +1,6 @@
+[submodule "software"]
+	path = software
+	url = git@github.com:Starrynightzyq/ARM_software.git
+[submodule "hardware"]
+	path = hardware
+	url = git@github.com:Starrynightzyq/ARM_hardware.git
